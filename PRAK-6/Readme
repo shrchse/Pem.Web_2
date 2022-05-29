@@ -1,0 +1,5 @@
+Langkah Installasi : 
+  1. Buat Database baru di MySql dengan nama 'web-6'
+  2. Clone / Download Project
+  3. Salin file file sql pada project, dan impelentasikan ke database web-6
+  4. Selesai
