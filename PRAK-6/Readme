@@ -1,5 +1,8 @@
 Langkah Installasi : 
   1. Buat Database baru di MySql dengan nama 'web-6'
-  2. Clone / Download Project
+  2. Clone / Download Projecthttps://github.com/shrchse/Pem.Web_2/blob/main/PRAK-6/Readme
   3. Salin file file sql pada project, dan impelentasikan ke database web-6
   4. Selesai
+
+Gunakan nomor member pada data di database dengan password : pass
+20013 - password : pass ::: Bisa pakai akun ini jika tidak mau membuka database
